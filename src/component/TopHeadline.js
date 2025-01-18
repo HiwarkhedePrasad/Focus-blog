@@ -11,7 +11,7 @@ const TopHeadlines = () => {
   const [noteTaking, setNoteTaking] = useState(null); // Track which article to take notes on
   const [isPanelOpen, setIsPanelOpen] = useState(false); // Track if the sliding panel is open
 
-  const API_KEY = "ff378f0aee1642f388afa55dcaee5aa6";
+  const API_KEY = process.env.REACT_APP_NEWS_API_KEY;
   const URL = `https://newsapi.org/v2/top-headlines?country=us&category=technology&pageSize=5&apiKey=${API_KEY}`;
 
   useEffect(() => {
