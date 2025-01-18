@@ -1,0 +1,106 @@
+[
+  {
+    "author": "Sarah Lee",
+    "content": "The rise of TikTok and how it's shaping the next generation of content creators.",
+    "description": "TikTok has become a cultural phenomenon. But how is it influencing young creators?",
+    "publishedAt": "2025-01-10T08:45:00Z",
+    "source": {
+      "id": "young-culture.com",
+      "name": "Young Culture"
+    },
+    "title": "The TikTok Effect on Gen Z's Creative Minds",
+    "url": "https://young-culture.com/tiktok-effect-genz",
+    "urlToImage": "https://example.com/tiktok.jpg"
+  },
+  {
+    "author": "Tommy Brown",
+    "content": "Exploring the latest trends in streetwear and how they're dominating youth fashion.",
+    "description": "Streetwear brands are gaining massive popularity with young people.",
+    "publishedAt": "2025-01-09T14:20:00Z",
+    "source": {
+      "id": "fashion-forward.com",
+      "name": "Fashion Forward"
+    },
+    "title": "Streetwear: The Fashion Movement of the Youth",
+    "url": "https://fashion-forward.com/streetwear-youth-trend",
+    "urlToImage": "https://example.com/streetwear.jpg"
+  },
+  {
+    "author": "Emily Zhang",
+    "content": "How social justice movements are gaining traction among the youth in 2025.",
+    "description": "Young people are becoming increasingly aware and active in social justice causes.",
+    "publishedAt": "2025-01-08T12:30:00Z",
+    "source": {
+      "id": "youth-voices.com",
+      "name": "Youth Voices"
+    },
+    "title": "Youth Activism: The Power of Social Justice in 2025",
+    "url": "https://youth-voices.com/youth-activism-2025",
+    "urlToImage": "https://example.com/activism.jpg"
+  },
+  {
+    "author": "Marcus Green",
+    "content": "Gaming as a form of social interaction among the younger generation.",
+    "description": "Video games are no longer just for entertainment; they're now a key part of youth culture.",
+    "publishedAt": "2025-01-07T11:00:00Z",
+    "source": {
+      "id": "game-on.com",
+      "name": "Game On"
+    },
+    "title": "The Social Power of Gaming for Young People",
+    "url": "https://game-on.com/social-gaming-young-people",
+    "urlToImage": "https://example.com/gaming.jpg"
+  },
+  {
+    "author": "Sophia Collins",
+    "content": "The rise of sustainability trends among Gen Z and their commitment to the environment.",
+    "description": "How Gen Z is leading the way for a more sustainable future.",
+    "publishedAt": "2025-01-06T10:00:00Z",
+    "source": {
+      "id": "green-young.com",
+      "name": "Green Young"
+    },
+    "title": "Gen Z and the Sustainability Revolution",
+    "url": "https://green-young.com/genz-sustainability",
+    "urlToImage": "https://example.com/sustainability.jpg"
+  },
+  {
+    "author": "Chloe Brown",
+    "content": "The growing popularity of online education platforms among young adults.",
+    "description": "Young people are increasingly turning to online learning as a flexible and accessible education option.",
+    "publishedAt": "2025-01-05T09:15:00Z",
+    "source": {
+      "id": "edu-future.com",
+      "name": "Edu Future"
+    },
+    "title": "Online Education: A New Era for Young Learners",
+    "url": "https://edu-future.com/online-education-youth",
+    "urlToImage": "https://example.com/online-education.jpg"
+  },
+  {
+    "author": "Alex Williams",
+    "content": "How virtual reality is shaping the future of entertainment for youth.",
+    "description": "Virtual reality has opened up new possibilities for entertainment, especially for younger audiences.",
+    "publishedAt": "2025-01-04T08:50:00Z",
+    "source": {
+      "id": "techyouth.com",
+      "name": "Tech Youth"
+    },
+    "title": "Virtual Reality: The Future of Youth Entertainment",
+    "url": "https://techyouth.com/virtual-reality-future",
+    "urlToImage": "https://example.com/vr.jpg"
+  },
+  {
+    "author": "Liam Scott",
+    "content": "Exploring the rise of eSports and its impact on youth culture and career opportunities.",
+    "description": "eSports is becoming a global industry, and young people are at the forefront.",
+    "publishedAt": "2025-01-03T07:30:00Z",
+    "source": {
+      "id": "esports-youth.com",
+      "name": "eSports Youth"
+    },
+    "title": "eSports and the Future of Youth Careers",
+    "url": "https://esports-youth.com/esports-future-careers",
+    "urlToImage": "https://example.com/esports.jpg"
+  }
+]
